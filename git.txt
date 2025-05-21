@@ -1,0 +1,11 @@
+pwd
+history
+clear
+ls
+mv
+cd ..
+cd
+rm -rf
+cat
+nano
+touch
